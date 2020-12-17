@@ -5,3 +5,6 @@
 - création d'une collection Movies et de documents à partir du CSV Movies small avec Python3
 - visualisation parlante(capture d'ecran sur Mongocomapss)
 - Récupération 5 premiers film d'action sous pyhton
+
+## Livrable :
+- Sur la branche **"Lamia"**
